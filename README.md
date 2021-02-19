@@ -11,10 +11,10 @@ Right now I am part of the amazing team of [WPMU DEV](https://premium.wpmudev.or
 
 I really love this field and I am constantly learning new things that improve my work and my ability to translate complex problems into interfaces that are intuitive and easy to use, well this is mostly thanks to the amazing designer that luckly I've met during my career 😊
 
-#### 🧰 What's in my toolbox? 
+#### 🧰 My toolbox 
 HTML - CSS (SCSS) - JavaScript - React.js - Redux - Emotion - PHP
 
-#### 👀 What's am I adding in my toolbox? 
+#### 👀 I am practicing with
 Typescript - Next.js - Chakra UI - PostgreSQL (just enough to be dangerous 😂) 
 
 #### 💪 How do I improve my skills? 
