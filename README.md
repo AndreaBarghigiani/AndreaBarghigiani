@@ -4,9 +4,7 @@ Got my introduction to the fantastic web development field with [WordPress](http
 
 Then I made a career choice and focused exclusively on FrontEnd development, and I started to learn JavaScript and invest deeply into one of the major UI libraries out there known as React.js.
 
-But you know devs, right? They're curious creatures, so lately, I've started to learn deeply Ruby and Ruby on Rails, also because this is the flavor at my new company, and the power of the framework and the simplicity of the language exited me.
-
-Right now, I am part of the amazing team of [Odd Camp](https://www.oddcamp.com/) where I work primarily with, you guess, Ruby on Rails which we use to create fast web applications for our clients. Since my focus is more on the FrontEnd side, I am using the new ViewComponents heavily and starting to master Hotwire.
+Right now, I am part of the team of [Enhancers](https://enhancers.it/) where I work primarily with, you guess, React.js.
 
 I really love this field, and I am constantly learning new things that improve my work and my ability to translate complex problems into interfaces that are intuitive and easy to use, well this is primarily thanks to the excellent designer that luckily I've met during my career 😊
 
