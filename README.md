@@ -11,11 +11,11 @@ Right now, I am part of the amazing team of [Odd Camp](https://www.oddcamp.com/)
 I really love this field, and I am constantly learning new things that improve my work and my ability to translate complex problems into interfaces that are intuitive and easy to use, well this is primarily thanks to the excellent designer that luckily I've met during my career 😊
 
 #### 🧰 My toolbox 
-HTML - CSS (SCSS) - JavaScript - React.js - Next.js - Redux - TailwindCSS 
+HTML - CSS (SCSS) - JavaScript - React.js - Typescript - Next.js - Redux - TailwindCSS 
 
 #### 👀 I am practicing with
 *The JavaScript part:*
-Typescript - Web3 - Supabase
+Web3 - Building side projects with [T3 Stack](https://create.t3.gg/)
 
 #### 💪 How do I improve my skills? 
 Keep my knowledge sharp and current has always been my main focus, in order to do so I found great pleasure following [Egghead courses](https://egghead.io/) that let me discover all the materials of Kent C. Dodds. Since I like (a lot) he's teaching style I invested in [EpicReact](https://epicreact.dev/) and [TestingJavaScript](https://testingjavascript.com/) to help me dig deeper in both. You can even read my notes right here on [GitHub](https://github.com/AndreaBarghigiani/EpicReactNotes)
