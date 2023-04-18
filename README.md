@@ -12,7 +12,6 @@ I really love this field, and I am constantly learning new things that improve m
 HTML - CSS (SCSS) - JavaScript - React.js - Typescript - Next.js - Redux - TailwindCSS 
 
 #### 👀 I am practicing with
-*The JavaScript part:*
 Web3 - Building side projects with [T3 Stack](https://create.t3.gg/)
 
 #### 💪 How do I improve my skills? 
